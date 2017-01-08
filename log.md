@@ -40,8 +40,18 @@
 
 ### Day 5: January 7th, Saturday
 
-**Todays progress**: Made progress on the weather challenge on freecodecamp. The geolocation API is now working since all of the code was relocated into the local scope of the callback. Also integrated the unsplash API to access images to be used for the background, representional of the current weather conditions.
+**Todays progress**: Made progress on the weather challenge on FreeCodeCamp. The geolocation API is now working since all of the code was relocated into the local scope of the callback. Also integrated the unsplash API to access images to be used for the background, representional of the current weather conditions.
 
 **Thoughts**: Having a few problems with the geolocations API not working for other people. Have a feeling it is an issue with codepen. Hopefully there wont be any issues when the project is uploaded and tested on github.
+
+### Day 6: January 8th, Sunday
+
+**Todays progress**: Completed the weather project on FreeCodeCamp. Changed the geolocation API to using an IP API to get the nearest city. Started looking into the Wikipedia viewer task and how to go about using their API to display search results. 
+
+**Thoughts**: Because the openweather API didnt use a secure connection Github Pages wouldnt allow the GET request to the API. However it works fine on codepen. Currently unsure about how to tackle the Wikipedia viewer and will have to look into how to use an input to call a function or begin a GET request to POST the search query results to the page.
+
+**Link to work**: [Show the Local Weather](http://codepen.io/AdamCollier/pen/bgdNzG)
+
+
 
 
