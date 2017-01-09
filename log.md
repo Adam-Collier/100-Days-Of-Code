@@ -52,6 +52,14 @@
 
 **Link to work**: [Show the Local Weather](http://codepen.io/AdamCollier/pen/bgdNzG)
 
+### Day 7: January 9th, Monday
+
+**Todays progress**: Finished Harry's portfolio site. Centered the image, made the text slightly bigger, added more images and added arrows to add direction to the carousel of images. 
+
+**Thoughts**: Pretty good day with no major drawbacks or problems. Nice feeling to completely understand what I am doing and being in a position where I am looking for ways to improve and push myself. Excited to start working on the wiki viewer.
+
+**Link to work**: [Harry's Portfolio](http://harryobrien.xyz)
+
 
 
 
