@@ -60,6 +60,11 @@
 
 **Link to work**: [Harry's Portfolio](http://harryobrien.xyz)
 
+### Day 8: January 10th, Tuesday
+
+**Todays progress**: Started doing some kata's on Codewars. Managed to do a few without googling but also used the read-search-ask technique when I got stuck. 
+
+**Thoughts**: Surprised at some of the information and processes I am starting to retain and remember. Getting more confident using the methods on arrays and strings. Didn't have enough time to hand to start the Wiki Viewer.
 
 
 
