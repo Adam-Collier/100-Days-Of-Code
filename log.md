@@ -66,5 +66,11 @@
 
 **Thoughts**: Surprised at some of the information and processes I am starting to retain and remember. Getting more confident using the methods on arrays and strings. Didn't have enough time to hand to start the Wiki Viewer.
 
+### Day 9: January 11th, Wednesday
+
+**Todays progress**: Continued with some Kata's on Codewars. A clan has been set up for FCC Manchester to add that element of competitiveness. Harry had a few changes for his website so I did that for him. 
+
+**Thoughts**: Annoyed that again I didnt get the time to properly sit down and focus on the Wiki Viewer challenge.
+
 
 
