@@ -72,5 +72,13 @@
 
 **Thoughts**: Annoyed that again I didnt get the time to properly sit down and focus on the Wiki Viewer challenge.
 
+### Day 10: January 12th, Thursday
+
+**Todays progress**: Completed several Kata's to test some of my knowledge. Began the Wiki viewer challenge on FreeCodeCamp, not made particularly lots of progress. 
+
+**Thoughts**: The Wiki API is quite difficult to get my head around. Maybe if I look at it with fresh eyes tomorrow it will all start to fall into place. 
+
+**Link to work**: [Wiki Viewer](http://codepen.io/AdamCollier/pen/apNMNq)
+
 
 
