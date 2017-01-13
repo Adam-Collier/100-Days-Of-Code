@@ -80,5 +80,11 @@
 
 **Link to work**: [Wiki Viewer](http://codepen.io/AdamCollier/pen/apNMNq)
 
+### Day 11: January 13th, Friday
+
+**Todays progress**: Starting to get my head around the Wiki API and how to implement it into my Wiki Viewer. Completed a few Kata's to keep challenging the fundamentals.
+
+**Thoughts**: Really need to push myself to get stuck into the Wiki Viewer. On the plus side the my understanding of javascript is getting better with the more Kata's that I do on CodeWars.
+
 
 
