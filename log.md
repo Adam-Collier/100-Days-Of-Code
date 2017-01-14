@@ -86,5 +86,13 @@
 
 **Thoughts**: Really need to push myself to get stuck into the Wiki Viewer. On the plus side the my understanding of javascript is getting better with the more Kata's that I do on CodeWars.
 
+### Day 12: January 14th, Saturday
+
+**Todays progress**: Completed the Wiki Viewer with search as you type functionality.
+
+**Thoughts**: Very happy with how my Wiki Viewer has turned out. Using the Google matrial design for the input and keeping it very minimalistic works really well. Probably my proudest moment yet when I finally figured out how to use the API and managed to get it all to work smoothly. However I need to work on my JS indentation to keep it neat and readable. 
+
+[Wiki Viewer](http://codepen.io/AdamCollier/full/apNMNq/)
+
 
 
