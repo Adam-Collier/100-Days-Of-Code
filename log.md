@@ -94,5 +94,13 @@
 
 [Wiki Viewer](http://codepen.io/AdamCollier/full/apNMNq/)
 
+### Day 13: January 15th, Sunday
+
+**Todays progress**: Started the Twitch TV project on FreeCodeCamp, made a lot of progress using the API. Mainly just styling issues now.
+
+**Thoughts**: Today has been pretty smooth in terms of accessing the array of objects and appending the key values into the DOM. Struggling with the styling a little as I am trying to use flexbox but I'm sure I'll figure it out pretty quickly.
+
+[Twitch TV](http://codepen.io/AdamCollier/pen/rjMjmy)
+
 
 
