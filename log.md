@@ -102,5 +102,20 @@
 
 [Twitch TV](http://codepen.io/AdamCollier/pen/rjMjmy)
 
+### Day 14: January 16th, Monday
+
+**Todays progress**: Completed the Twitch project on FreeCodeCamp. Manages to successfully make two API calls using $when and $do which allowed me to use the array variable arr. 
+
+**Thoughts**: Pretty happy with how it all turned out. Started the day off frustrated because I couldn't figure out how to access the array variable with the second API call. Another issue came with the adding the error messages to the page but after implementing a couple of if statments it worked a charm. Onwards and upwards. 
+
+[Twitch TV](http://codepen.io/AdamCollier/full/rjMjmy/)
+
+### Day 15: January 17th, Tuesday
+
+**Todays progress**: Started the Intermediate Algorithm challenges on FreeCodeCamp. The first couple were easy enough, beginning to think more in terms of object oriented programming rather than functional programming in the way I am arrpoaching the problems.
+
+**Thoughts**: Didnt get a tonne of stuff done today, managed to get a few Kata's in here and there as well as the FreeCodeCamp challenges. Had a look at the Roman Numeral challenge which is my next problem to solve... looks interesting.  
+
+
 
 
