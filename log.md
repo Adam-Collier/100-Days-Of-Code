@@ -112,7 +112,7 @@
 
 ### Day 15: January 17th, Tuesday
 
-**Todays progress**: Started the Intermediate Algorithm challenges on FreeCodeCamp. The first couple were easy enough, beginning to think more in terms of object oriented programming rather than functional programming in the way I am arrpoaching the problems.
+**Todays progress**: Started the Intermediate Algorithm challenges on FreeCodeCamp. The first couple were easy enough, beginning to find higher order functions easier to use and implement into my solutions. 
 
 **Thoughts**: Didnt get a tonne of stuff done today, managed to get a few Kata's in here and there as well as the FreeCodeCamp challenges. Had a look at the Roman Numeral challenge which is my next problem to solve... looks interesting.  
 
