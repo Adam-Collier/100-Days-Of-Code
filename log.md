@@ -116,6 +116,14 @@
 
 **Thoughts**: Didnt get a tonne of stuff done today, managed to get a few Kata's in here and there as well as the FreeCodeCamp challenges. Had a look at the Roman Numeral challenge which is my next problem to solve... looks interesting.  
 
+### Day 16: January 18th, Wednesday
+
+**Todays progress**: Completed the Roman Numerals challenge on FreeCodeCamp and added some more images to Harry's portfolio site.  
+
+**Thoughts**: Really struggled to find a starting point on the Roman Numeral challenge and it took a few attempts to understant what I should be doing and how to approach the problem. I am pleased with the result and when looking at other peoples code it is pretty neat and succinct.
+ 
+
+
 
 
 
