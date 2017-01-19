@@ -121,6 +121,12 @@
 **Todays progress**: Completed the Roman Numerals challenge on FreeCodeCamp and added some more images to Harry's portfolio site.  
 
 **Thoughts**: Really struggled to find a starting point on the Roman Numeral challenge and it took a few attempts to understant what I should be doing and how to approach the problem. I am pleased with the result and when looking at other peoples code it is pretty neat and succinct.
+
+### Day 17: January 19th, Thursday
+
+**Todays progress**: Attempted the Where Art Thou challenge on FreeCodeCamp. Struggled a little bit today to make sense of what the problem was asking, I managed to hit two of the objectives to pass but couldnt quite figure out why the other objectives wouldnt pass too.    
+
+**Thoughts**: Instead of using the higher order functions maybe use a for loop? The problem may be that it can map through the objects in the array but not the source key value pairs.
  
 
 
