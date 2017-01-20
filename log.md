@@ -127,6 +127,12 @@
 **Todays progress**: Attempted the Where Art Thou challenge on FreeCodeCamp. Struggled a little bit today to make sense of what the problem was asking, I managed to hit two of the objectives to pass but couldnt quite figure out why the other objectives wouldnt pass too.    
 
 **Thoughts**: Instead of using the higher order functions maybe use a for loop? The problem may be that it can map through the objects in the array but not the source key value pairs.
+
+### Day 18: January 20th, Friday
+
+**Todays progress**: Completed the Wherefore Art Thou and Search and Replace challenge on FreeCodeCamp. After writing down the problem to Wherefore Art Thou and breaking it down I was able to approach the problem better and generate a solution.
+
+**Thoughts**: It was a challenge to wrap my head around the first problem but once I got past that barrier I felt a lot more confident. I have looked at some other peoples code and how they have tackled the problem which has been great for future reference.
  
 
 
