@@ -133,6 +133,13 @@
 **Todays progress**: Completed the Wherefore Art Thou and Search and Replace challenge on FreeCodeCamp. After writing down the problem to Wherefore Art Thou and breaking it down I was able to approach the problem better and generate a solution.
 
 **Thoughts**: It was a challenge to wrap my head around the first problem but once I got past that barrier I felt a lot more confident. I have looked at some other peoples code and how they have tackled the problem which has been great for future reference.
+
+### Day 19: January 21st, Saturday
+
+**Todays progress**: Started the Pig Latin challenge on FreeCodeCamp. 
+
+**Thoughts**: Really didnt manage to get much today due to other commitments and working. Hopefully tomorrow will be a lot more productive!
+
  
 
 
