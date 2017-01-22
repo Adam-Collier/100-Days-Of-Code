@@ -140,6 +140,13 @@
 
 **Thoughts**: Really didnt manage to get much today due to other commitments and working. Hopefully tomorrow will be a lot more productive!
 
+### Day 20: January 22nd, Sunday
+
+**Todays progress**: Completed the Pig Latin challenge on FreeCodeCamp and expanded my knowledge about scope and closures by reading few chapter of You Dont Know JS. 
+
+**Thoughts**: Managed to get three of the four tests passed pretty quickly. It was only when there were several consonants at the beginning that I had to rethink my strategy. I decided to use search method on a string using a regular expression of vowels to get the first index of a vowel then as long as the index wasn't 0 I could splice, join and concatenate them to the end of the string.
+
+
  
 
 
