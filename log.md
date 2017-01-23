@@ -146,6 +146,12 @@
 
 **Thoughts**: Managed to get three of the four tests passed pretty quickly. It was only when there were several consonants at the beginning that I had to rethink my strategy. I decided to use search method on a string using a regular expression of vowels to get the first index of a vowel then as long as the index wasn't 0 I could splice, join and concatenate them to the end of the string.
 
+### Day 21: January 23rd, Monday
+
+**Todays progress**: Completed the DNA Pairing, Missing Letters, Boo Who and Sorted Union challenges on FreeCodeCamp.
+
+**Thoughts**: Very happy with how much progress has been made today, I have surprised myself how easy it is all starting to feel now. The only issue I have is thinking about where to start, once I start writing code it is fine. Maybe I could go back into my code and start to refactor it using more higher order functions rather than for loops and if statements. Good day all in all. 
+
 
  
 
