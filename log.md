@@ -152,6 +152,12 @@
 
 **Thoughts**: Very happy with how much progress has been made today, I have surprised myself how easy it is all starting to feel now. The only issue I have is thinking about where to start, once I start writing code it is fine. Maybe I could go back into my code and start to refactor it using more higher order functions rather than for loops and if statements. Good day all in all. 
 
+### Day 22: January 24th, Tuesday
+
+**Todays progress**: Completed the Convert HTML Entities, Spinal Tap Case and Sum All Odd Fibonacci Numbers challenges on FreeCodeCamp. Made a start on Sum All Prime Numbers.
+
+**Thoughts**: Today went pretty well. I managed to use quite a few higher order functions which really made my code short and concise. In using Regex in one of the challenged I have a much better understanding of how to use it with parenthesis and $ signs as an argument in a replace method. Started the Sum All Primes challenge but at the moment I am unsure on how to get all of the prime numbers, I am thinking of using a nested for loop but whether that will work we will have to see. 
+
 
  
 
