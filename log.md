@@ -158,6 +158,12 @@
 
 **Thoughts**: Today went pretty well. I managed to use quite a few higher order functions which really made my code short and concise. In using Regex in one of the challenged I have a much better understanding of how to use it with parenthesis and $ signs as an argument in a replace method. Started the Sum All Primes challenge but at the moment I am unsure on how to get all of the prime numbers, I am thinking of using a nested for loop but whether that will work we will have to see. 
 
+### Day 23: January 25th, Wednesday
+
+**Todays progress**: Completed the Sum All Primes challenge on FreeCodeCamp. Used a mixture of higher order functions and for loops.
+
+**Thoughts**: Very glad to see the back of that challenge. That was one of the most frustrating challenges I have done upto this point. After many failed attempts of using nested for loops I turned to using higher order functions and I seemed to understand what I was doing a lot more. It involved a little more work but I managed to get there in the end. Its in these situations where I'm glad I go through the struggle stage because on completing the challenge its a great feeling. I think I'll make a page on here recording all of my code from the FreeCodeCamp challenges since it would all be lost if I emptied my cache. 
+
 
  
 
