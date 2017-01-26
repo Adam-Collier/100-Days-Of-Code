@@ -164,6 +164,12 @@
 
 **Thoughts**: Very glad to see the back of that challenge. That was one of the most frustrating challenges I have done upto this point. After many failed attempts of using nested for loops I turned to using higher order functions and I seemed to understand what I was doing a lot more. It involved a little more work but I managed to get there in the end. Its in these situations where I'm glad I go through the struggle stage because on completing the challenge its a great feeling. I think I'll make a page on here recording all of my code from the FreeCodeCamp challenges since it would all be lost if I emptied my cache. 
 
+### Day 24: January 26th, Thursday
+
+**Todays progress**: Started the Smallest Common Multiple on FreeCodeCamp.
+
+**Thoughts**: This challenge seems to have a lot more to it thatn I first anticipated. There is always a risk of an infite loop since you cant put a limit on the max number because you may have numbers passed in the argument which have a least common multiple past that limit. At the moment I have tried using indexOf in a while loop but it keeps on producing an infinite loop. Going to have to get a pen and paper out and really think this one through.
+
 
  
 
