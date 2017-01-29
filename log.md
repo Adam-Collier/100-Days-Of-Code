@@ -176,6 +176,12 @@
 
 **Thoughts**: This is definitely the hardest challenge I have had to do on FreeCodeCamp upto this point. May have to move onto a different challenge and come back to it later on with a fresh mind.
 
+### Day 26: January 29th, Sunday
+
+**Todays progress**: Completed the Finders Keepers, Drop it and Steamroller challenge on FreeCodeCamp. Also watched some videos and read some explainations and examples on recursion and how to use it. 
+
+**Thoughts**: The Finders Keepers and Drop It challenge were pretty easy to get my head around so I found the solutions to those pretty easy. When I came to Steamroller I could reduce two dimensional arrays pretty easy but nothing above that. After a lot of searching I realised that I could use recursion in a for loop. I still dont fully understand how recursion works so I will read more explanations and examples. Im not feeling particularly strong with the Maths based challenges at the moment and since my interview with Sky Im thinking I should maybe invest more time looking into node, express and react. 
+
 
  
 
