@@ -170,6 +170,12 @@
 
 **Thoughts**: This challenge seems to have a lot more to it thatn I first anticipated. There is always a risk of an infite loop since you cant put a limit on the max number because you may have numbers passed in the argument which have a least common multiple past that limit. At the moment I have tried using indexOf in a while loop but it keeps on producing an infinite loop. Going to have to get a pen and paper out and really think this one through.
 
+### Day 25: January 28th, Saturday
+
+**Todays progress**: Attempted the Smallest Common Multiple challenge on FreeCodeCamp.
+
+**Thoughts**: This is definitely the hardest challenge I have had to do on FreeCodeCamp upto this point. May have to move onto a different challenge and come back to it later on with a fresh mind.
+
 
  
 
