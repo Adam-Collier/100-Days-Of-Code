@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-<!-- 
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -46,7 +46,7 @@
 
 ### Day 6: January 8th, Sunday
 
-**Todays progress**: Completed the weather project on FreeCodeCamp. Changed the geolocation API to using an IP API to get the nearest city. Started looking into the Wikipedia viewer task and how to go about using their API to display search results. 
+**Todays progress**: Completed the weather project on FreeCodeCamp. Changed the geolocation API to using an IP API to get the nearest city. Started looking into the Wikipedia viewer task and how to go about using their API to display search results.
 
 **Thoughts**: Because the openweather API didnt use a secure connection Github Pages wouldnt allow the GET request to the API. However it works fine on codepen. Currently unsure about how to tackle the Wikipedia viewer and will have to look into how to use an input to call a function or begin a GET request to POST the search query results to the page.
 
@@ -54,7 +54,7 @@
 
 ### Day 7: January 9th, Monday
 
-**Todays progress**: Finished Harry's portfolio site. Centered the image, made the text slightly bigger, added more images and added arrows to add direction to the carousel of images. 
+**Todays progress**: Finished Harry's portfolio site. Centered the image, made the text slightly bigger, added more images and added arrows to add direction to the carousel of images.
 
 **Thoughts**: Pretty good day with no major drawbacks or problems. Nice feeling to completely understand what I am doing and being in a position where I am looking for ways to improve and push myself. Excited to start working on the wiki viewer.
 
@@ -62,21 +62,21 @@
 
 ### Day 8: January 10th, Tuesday
 
-**Todays progress**: Started doing some kata's on Codewars. Managed to do a few without googling but also used the read-search-ask technique when I got stuck. 
+**Todays progress**: Started doing some kata's on Codewars. Managed to do a few without googling but also used the read-search-ask technique when I got stuck.
 
 **Thoughts**: Surprised at some of the information and processes I am starting to retain and remember. Getting more confident using the methods on arrays and strings. Didn't have enough time to hand to start the Wiki Viewer.
 
 ### Day 9: January 11th, Wednesday
 
-**Todays progress**: Continued with some Kata's on Codewars. A clan has been set up for FCC Manchester to add that element of competitiveness. Harry had a few changes for his website so I did that for him. 
+**Todays progress**: Continued with some Kata's on Codewars. A clan has been set up for FCC Manchester to add that element of competitiveness. Harry had a few changes for his website so I did that for him.
 
 **Thoughts**: Annoyed that again I didnt get the time to properly sit down and focus on the Wiki Viewer challenge.
 
 ### Day 10: January 12th, Thursday
 
-**Todays progress**: Completed several Kata's to test some of my knowledge. Began the Wiki viewer challenge on FreeCodeCamp, not made particularly lots of progress. 
+**Todays progress**: Completed several Kata's to test some of my knowledge. Began the Wiki viewer challenge on FreeCodeCamp, not made particularly lots of progress.
 
-**Thoughts**: The Wiki API is quite difficult to get my head around. Maybe if I look at it with fresh eyes tomorrow it will all start to fall into place. 
+**Thoughts**: The Wiki API is quite difficult to get my head around. Maybe if I look at it with fresh eyes tomorrow it will all start to fall into place.
 
 **Link to work**: [Wiki Viewer](http://codepen.io/AdamCollier/pen/apNMNq)
 
@@ -90,7 +90,7 @@
 
 **Todays progress**: Completed the Wiki Viewer with search as you type functionality.
 
-**Thoughts**: Very happy with how my Wiki Viewer has turned out. Using the Google matrial design for the input and keeping it very minimalistic works really well. Probably my proudest moment yet when I finally figured out how to use the API and managed to get it all to work smoothly. However I need to work on my JS indentation to keep it neat and readable. 
+**Thoughts**: Very happy with how my Wiki Viewer has turned out. Using the Google matrial design for the input and keeping it very minimalistic works really well. Probably my proudest moment yet when I finally figured out how to use the API and managed to get it all to work smoothly. However I need to work on my JS indentation to keep it neat and readable.
 
 [Wiki Viewer](http://codepen.io/AdamCollier/full/apNMNq/)
 
@@ -104,15 +104,15 @@
 
 ### Day 14: January 16th, Monday
 
-**Todays progress**: Completed the Twitch project on FreeCodeCamp. Manages to successfully make two API calls using $when and $do which allowed me to use the array variable arr. 
+**Todays progress**: Completed the Twitch project on FreeCodeCamp. Manages to successfully make two API calls using $when and $do which allowed me to use the array variable arr.
 
-**Thoughts**: Pretty happy with how it all turned out. Started the day off frustrated because I couldn't figure out how to access the array variable with the second API call. Another issue came with the adding the error messages to the page but after implementing a couple of if statments it worked a charm. Onwards and upwards. 
+**Thoughts**: Pretty happy with how it all turned out. Started the day off frustrated because I couldn't figure out how to access the array variable with the second API call. Another issue came with the adding the error messages to the page but after implementing a couple of if statments it worked a charm. Onwards and upwards.
 
 [Twitch TV](http://codepen.io/AdamCollier/full/rjMjmy/)
 
 ### Day 15: January 17th, Tuesday
 
-**Todays progress**: Started the Intermediate Algorithm challenges on FreeCodeCamp. The first couple were easy enough, beginning to find higher order functions easier to use and implement into my solutions. 
+**Todays progress**: Started the Intermediate Algorithm challenges on FreeCodeCamp. The first couple were easy enough, beginning to find higher order functions easier to use and implement into my solutions.
 
 **Thoughts**: Didnt get a tonne of stuff done today, managed to get a few Kata's in here and there as well as the FreeCodeCamp challenges. Had a look at the Roman Numeral challenge which is my next problem to solve... looks interesting.  
 
@@ -136,13 +136,13 @@
 
 ### Day 19: January 21st, Saturday
 
-**Todays progress**: Started the Pig Latin challenge on FreeCodeCamp. 
+**Todays progress**: Started the Pig Latin challenge on FreeCodeCamp.
 
 **Thoughts**: Really didnt manage to get much today due to other commitments and working. Hopefully tomorrow will be a lot more productive!
 
 ### Day 20: January 22nd, Sunday
 
-**Todays progress**: Completed the Pig Latin challenge on FreeCodeCamp and expanded my knowledge about scope and closures by reading few chapter of You Dont Know JS. 
+**Todays progress**: Completed the Pig Latin challenge on FreeCodeCamp and expanded my knowledge about scope and closures by reading few chapter of You Dont Know JS.
 
 **Thoughts**: Managed to get three of the four tests passed pretty quickly. It was only when there were several consonants at the beginning that I had to rethink my strategy. I decided to use search method on a string using a regular expression of vowels to get the first index of a vowel then as long as the index wasn't 0 I could splice, join and concatenate them to the end of the string.
 
@@ -150,19 +150,19 @@
 
 **Todays progress**: Completed the DNA Pairing, Missing Letters, Boo Who and Sorted Union challenges on FreeCodeCamp.
 
-**Thoughts**: Very happy with how much progress has been made today, I have surprised myself how easy it is all starting to feel now. The only issue I have is thinking about where to start, once I start writing code it is fine. Maybe I could go back into my code and start to refactor it using more higher order functions rather than for loops and if statements. Good day all in all. 
+**Thoughts**: Very happy with how much progress has been made today, I have surprised myself how easy it is all starting to feel now. The only issue I have is thinking about where to start, once I start writing code it is fine. Maybe I could go back into my code and start to refactor it using more higher order functions rather than for loops and if statements. Good day all in all.
 
 ### Day 22: January 24th, Tuesday
 
 **Todays progress**: Completed the Convert HTML Entities, Spinal Tap Case and Sum All Odd Fibonacci Numbers challenges on FreeCodeCamp. Made a start on Sum All Prime Numbers.
 
-**Thoughts**: Today went pretty well. I managed to use quite a few higher order functions which really made my code short and concise. In using Regex in one of the challenged I have a much better understanding of how to use it with parenthesis and $ signs as an argument in a replace method. Started the Sum All Primes challenge but at the moment I am unsure on how to get all of the prime numbers, I am thinking of using a nested for loop but whether that will work we will have to see. 
+**Thoughts**: Today went pretty well. I managed to use quite a few higher order functions which really made my code short and concise. In using Regex in one of the challenged I have a much better understanding of how to use it with parenthesis and $ signs as an argument in a replace method. Started the Sum All Primes challenge but at the moment I am unsure on how to get all of the prime numbers, I am thinking of using a nested for loop but whether that will work we will have to see.
 
 ### Day 23: January 25th, Wednesday
 
 **Todays progress**: Completed the Sum All Primes challenge on FreeCodeCamp. Used a mixture of higher order functions and for loops.
 
-**Thoughts**: Very glad to see the back of that challenge. That was one of the most frustrating challenges I have done upto this point. After many failed attempts of using nested for loops I turned to using higher order functions and I seemed to understand what I was doing a lot more. It involved a little more work but I managed to get there in the end. Its in these situations where I'm glad I go through the struggle stage because on completing the challenge its a great feeling. I think I'll make a page on here recording all of my code from the FreeCodeCamp challenges since it would all be lost if I emptied my cache. 
+**Thoughts**: Very glad to see the back of that challenge. That was one of the most frustrating challenges I have done upto this point. After many failed attempts of using nested for loops I turned to using higher order functions and I seemed to understand what I was doing a lot more. It involved a little more work but I managed to get there in the end. Its in these situations where I'm glad I go through the struggle stage because on completing the challenge its a great feeling. I think I'll make a page on here recording all of my code from the FreeCodeCamp challenges since it would all be lost if I emptied my cache.
 
 ### Day 24: January 26th, Thursday
 
@@ -178,14 +178,12 @@
 
 ### Day 26: January 29th, Sunday
 
-**Todays progress**: Completed the Finders Keepers, Drop it and Steamroller challenge on FreeCodeCamp. Also watched some videos and read some explainations and examples on recursion and how to use it. 
+**Todays progress**: Completed the Finders Keepers, Drop it and Steamroller challenge on FreeCodeCamp. Also watched some videos and read some explanations and examples on recursion and how to use it.
 
-**Thoughts**: The Finders Keepers and Drop It challenge were pretty easy to get my head around so I found the solutions to those pretty easy. When I came to Steamroller I could reduce two dimensional arrays pretty easy but nothing above that. After a lot of searching I realised that I could use recursion in a for loop. I still dont fully understand how recursion works so I will read more explanations and examples. Im not feeling particularly strong with the Maths based challenges at the moment and since my interview with Sky Im thinking I should maybe invest more time looking into node, express and react. 
+**Thoughts**: The Finders Keepers and Drop It challenge were pretty easy to get my head around so I found the solutions to those pretty easy. When I came to Steamroller I could reduce two dimensional arrays pretty easy but nothing above that. After a lot of searching I realised that I could use recursion in a for loop. I still don't fully understand how recursion works so I will read more explanations and examples. Im not feeling particularly strong with the Maths based challenges at the moment and since my interview with Sky Im thinking I should maybe invest more time looking into node, express and react.
 
+### Day 27: January 30th, Monday
 
- 
+**Todays progress**: Completed the Binary Agents and the Everything be True challenges on FreeCodeCamp. Created a new Markdown file documenting all of my solutions from the Intermediate Algorithm challenges on FreeCodeCamp. That way I know all of my solutions aren't lost if I decide to empty the cache on my browser. Switched my text editor from Sublime Text to Atom, so far so good.
 
-
-
-
-
+**Thoughts**: Today went pretty smoothly which was a nice change from the past few days which have been relatively tough. As soon as I realised I could use parseInt in the Binary Agents challenge coming up with the solution was straight forward. But thats the thing with programming you have to know what you are looking for, or have some potential methods in mind. I found the Everything be True challenge pretty simple, however I realise now that I could have refactored my code so it was a lot shorter, but passing is still one step forward.
