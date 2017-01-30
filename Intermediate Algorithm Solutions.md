@@ -9,7 +9,7 @@ function sumAll(arr) {
     return a-b;
   });
   var b = arr[0]-1;
-  
+
   while(b < arr[1]){
     a.push(b += 1);
 }
@@ -52,13 +52,13 @@ function convertToRoman(num) {
   remainder = remainder % 10;
   var ones = Math.floor(remainder / 1);
   remainder = remainder % 1;
-  
+
   var arrhun = ["C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"];
   var arrten = ["X", "XX", "XXX" ,"XL", "L", "LX", "LXX", "LXXX", "XC"];
   var arrone = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"];
-  
+
   var numeral = [];
-  
+
   for( x = 0; x < thousands; x++){
      numeral.push("M");
   }
@@ -78,11 +78,11 @@ function whatIsInAName(collection, source) {
   // What's in a name?
   var arr = [];
   // Only change code below this line
-  
+
   for(var x = 0; x < collection.length; x++){
-    var o = Object.keys(source); 
+    var o = Object.keys(source);
     var a = [];
-    
+
     for(var i = 0; i < o.length; i++){
        a.push(collection[x].hasOwnProperty(o[i]));
 }
@@ -90,7 +90,7 @@ function whatIsInAName(collection, source) {
     if(collection[x][o] == source[o] && a.indexOf(false) == -1 ){
       arr.push(collection[x]);
     }
-    
+
   }
 
 // Only change code above this line
@@ -105,13 +105,13 @@ whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: 
 ```javascript
 
 function myReplace(str, before, after) {
-  
+
   if(before[0] == before[0].toUpperCase()){
     after = after[0].toUpperCase() + after.slice(1);
   }
-  
+
   return str.replace(before, after);
-  
+
 }
 
 myReplace("Let us get back to more Coding", "Coding", "algorithms");
@@ -160,7 +160,7 @@ function pairElement(str) {
       }
 
   });
-  
+
   return arr;
 }
 
@@ -184,7 +184,7 @@ function fearNotLetter(str) {
     }else{
       a = a+1;
     }
-    
+
   });
 
   return r;
@@ -213,7 +213,7 @@ booWho(true);
 ```javascript
 function uniteUnique(a, b, c, d) {
   var arr= [];
-  
+
   if(arguments[3] !== undefined){
     arr = a.concat(b,c,d);
   }else if(arguments[2] !== undefined){
@@ -252,7 +252,7 @@ function spinalCase(str) {
   // "It's such a fine line between stupid, and clever."
   // --David St. Hubbins
   return str.replace(/([a-z])([A-Z])/g, "$1 $2").toLowerCase().replace(/[\W_]/gi,"-");
-  
+
 }
 
 spinalCase('AllThe-small Things');
@@ -269,12 +269,12 @@ function sumFibs(bar) {
   }
   arr = arr.filter(function(x){
     if(x % 2 !== 0){
-      return x; 
+      return x;
     }
   });
-  
+
   arr.splice(-1,1);
-    
+
   arr = arr.reduce(function(a,b){
     return a + b;
   });
@@ -304,7 +304,7 @@ function sumPrimes(n) {
   });
 
   var f = [];
-  
+
   for (var s = 0; s < b.length; s++) {
     if (b[s].indexOf(0) === -1) {
       f.push(s + 2);
@@ -324,14 +324,14 @@ sumPrimes(10);
 
 ```javascript
 function findElement(arr, func) {
-  
+
   var a = [];
-  
+
   for(var x = 0; x < arr.length; x++){
     var num = arr[x];
     a.push(func(num));
   }
-  
+
   var b = a.indexOf(true);
   return arr[b];
 
@@ -363,14 +363,14 @@ function steamrollArray(arr) {
   // I'm a steamroller, baby
   var a = [];
   var b = [];
-  
+
   for(var x = 0; x < arr.length; x++){
     if(Array.isArray(arr[x])){
       a = a.concat(steamrollArray(arr[x]));
-      
+
     }else{
       a.push(arr[x]);
-      
+
     }
   }
   return a;
@@ -392,24 +392,26 @@ function binaryAgent(str) {
 binaryAgent("01000001 01110010 01100101 01101110 00100111 01110100 00100000 01100010 01101111 01101110 01100110 01101001 01110010 01100101 01110011 00100000 01100110 01110101 01101110 00100001 00111111");
 ```
 
+### Everything be True
 
+```javascript
+function truthCheck(collection, pre) {
+  // Is everyone being true?
+  var arr = [];
+  arr = collection.map(function(x){
+    if(x[pre]){
+      return true;
+    }else{
+      return false;
+    }
+  });
+  if(arr.indexOf(false) === -1){
+    return true;
+  }else{
+    return false;
+  }
 
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+truthCheck([{"user": "Tinky-Winky", "sex": "male"}, {"user": "Dipsy", "sex": "male"}, {"user": "Laa-Laa", "sex": "female"}, {"user": "Po", "sex": "female"}], "sex");
+```
