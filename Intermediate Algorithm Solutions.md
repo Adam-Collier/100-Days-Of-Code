@@ -415,3 +415,31 @@ function truthCheck(collection, pre) {
 
 truthCheck([{"user": "Tinky-Winky", "sex": "male"}, {"user": "Dipsy", "sex": "male"}, {"user": "Laa-Laa", "sex": "female"}, {"user": "Po", "sex": "female"}], "sex");
 ```
+
+### Arguments Optional
+
+```javascript
+function addTogether() {
+  var args = Array.from(arguments);
+  if(args.length === 2){
+    return args.reduce(function(a,b){
+      if(typeof a === 'number' && typeof b === 'number'){
+        return a + b;
+      }
+    });
+
+  }else if(args.length === 1 && typeof args[0] === 'number'){
+    return function(sum){
+      if(typeof sum === 'number'){
+        return args[0] + sum;
+      }else{
+        return undefined;
+      }
+    };
+  }else{
+    return undefined;
+  }
+}
+
+addTogether("http://bit.ly/IqT6zt");
+```
