@@ -187,3 +187,9 @@
 **Todays progress**: Completed the Binary Agents and the Everything be True challenges on FreeCodeCamp. Created a new Markdown file documenting all of my solutions from the Intermediate Algorithm challenges on FreeCodeCamp. That way I know all of my solutions aren't lost if I decide to empty the cache on my browser. Switched my text editor from Sublime Text to Atom, so far so good.
 
 **Thoughts**: Today went pretty smoothly which was a nice change from the past few days which have been relatively tough. As soon as I realised I could use parseInt in the Binary Agents challenge coming up with the solution was straight forward. But thats the thing with programming you have to know what you are looking for, or have some potential methods in mind. I found the Everything be True challenge pretty simple, however I realise now that I could have refactored my code so it was a lot shorter, but passing is still one step forward.
+
+### Day 28: January 31st, Tuesday
+
+**Todays progress**: Completed the Intermediate Algorithm Scripting section on FreeCodeCamp! Looked into currying and recursion for the Arguments Optional challenge. Had some fun using Regular Expressions in the Validate Us Telephone Numbers challenge.
+
+**Thoughts**: Today was eventually a good day. I went through the motions of struggling, finding little steps to move forward and finally understanding and reaching a solution. Understand the use of recursion and currying was a huge challenge today but some videos on YouTube by MPJ did help out a lot. I understand them on a very basic level, it's just a case of familiarizing myself with it so much that it becomes embedded.  
