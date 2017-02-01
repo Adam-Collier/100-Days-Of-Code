@@ -193,3 +193,9 @@
 **Todays progress**: Completed the Intermediate Algorithm Scripting section on FreeCodeCamp! Looked into currying and recursion for the Arguments Optional challenge. Had some fun using Regular Expressions in the Validate Us Telephone Numbers challenge.
 
 **Thoughts**: Today was eventually a good day. I went through the motions of struggling, finding little steps to move forward and finally understanding and reaching a solution. Understand the use of recursion and currying was a huge challenge today but some videos on YouTube by MPJ did help out a lot. I understand them on a very basic level, it's just a case of familiarizing myself with it so much that it becomes embedded.  
+
+### Day 29: February 1st, Wednesday
+
+**Todays progress**: Completed the Symmetric difference and started the Exact Change challenge on FreeCodeCamp.
+
+**Thoughts**: It was a very frustrating day today. I had a few hiccups when finding the solution to Symmetric differences because I didn't really understand the problem. I need to make sure I fully understand the problem before I dive into the code finding the solution through trial and error. In the Exact Change challenge I had no idea how to start apart from when one of my peers pointed out the similarities to the Roman Numeral challenge. I have more of an idea how to tackle the problem, I may need to fully figure out my approach before hand though using a pen and paper.
