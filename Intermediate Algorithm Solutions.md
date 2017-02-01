@@ -443,3 +443,68 @@ function addTogether() {
 
 addTogether("http://bit.ly/IqT6zt");
 ```
+
+### Validate US Telephone Numbers
+
+```javascript
+function telephoneCheck(str) {
+  // Good luck!
+  var reg = /\d/g;
+  var bra = /[()]/g;
+
+  var a = str.match(reg);
+  var b = str.match(bra);
+
+
+  if(a.length === 10 || a.length === 11 && a[0] === "1"){
+    if(str.indexOf(')') > 6 || str.indexOf('?') > 0){
+      return false;
+    }else if(b !== null){
+      return b.length % 2 === 0;
+    }else{
+      return true;
+    }
+
+  }else{
+    return false;
+  }
+
+
+}
+
+
+
+telephoneCheck("555-555-5555)");
+```
+
+### Symmetric Difference
+
+```javascript
+function sym(args) {
+  var arr = Array.from(arguments);
+  //arr = [].concat.apply([], arr);
+  arr = arr.reduce(function(accum, array){
+    var f = array.filter(function(item, index){
+      return array.indexOf(item) === index;
+    });
+    return accum.concat(f);
+  },[]);
+  arr = arr.sort();
+  var count = {};
+  var a = [];
+
+  for(var x = 0; x < arr.length; x++){
+    count[arr[x]] = count[arr[x]] + 1 || 1;
+  }
+
+  var b = Object.keys(count).filter(function(x){
+    return count[x] % 2 !== 0;
+  });
+
+return b.map(function(x){
+  return parseInt(x);
+});                                           
+}
+
+sym([1, 1, 2, 5], [2, 3, 5], [3, 4, 5]);
+```
