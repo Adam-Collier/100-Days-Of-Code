@@ -199,3 +199,9 @@
 **Todays progress**: Completed the Symmetric difference and started the Exact Change challenge on FreeCodeCamp.
 
 **Thoughts**: It was a very frustrating day today. I had a few hiccups when finding the solution to Symmetric differences because I didn't really understand the problem. I need to make sure I fully understand the problem before I dive into the code finding the solution through trial and error. In the Exact Change challenge I had no idea how to start apart from when one of my peers pointed out the similarities to the Roman Numeral challenge. I have more of an idea how to tackle the problem, I may need to fully figure out my approach before hand though using a pen and paper.
+
+### Day 30: February 2nd, Thursday
+
+**Todays progress**: Completed several Kata's on CodeWars.
+
+**Thoughts**: Didn't get much time to code today due to hanging an exhibition at the Isherwood gallery. Managed to scrape out an hour just before bed. I feel much better now I have managed to write some code. 
