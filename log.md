@@ -204,4 +204,10 @@
 
 **Todays progress**: Completed several Kata's on CodeWars.
 
-**Thoughts**: Didn't get much time to code today due to hanging an exhibition at the Isherwood gallery. Managed to scrape out an hour just before bed. I feel much better now I have managed to write some code. 
+**Thoughts**: Didn't get much time to code today due to hanging an exhibition at the Isherwood gallery. Managed to scrape out an hour just before bed. I feel much better now I have managed to write some code.
+
+### Day 31: February 3rd, Friday
+
+**Todays progress**: Completed some more Kata's on CodeWars.
+
+**Thoughts**: Again I didn't get much time to code since I was helping sift through 60 art proposals for a local art programme. However, I am challenging myself with only choosing 6kyu or lower challenges.
