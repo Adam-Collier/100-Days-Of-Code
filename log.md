@@ -211,3 +211,9 @@
 **Todays progress**: Completed some more Kata's on CodeWars.
 
 **Thoughts**: Again I didn't get much time to code since I was helping sift through 60 art proposals for a local art programme. However, I am challenging myself with only choosing 6kyu or lower challenges.
+
+### Day 32: February 4th, Saturday
+
+**Todays progress**: Completed some more Kata's on CodeWars, taken the top stop on the FCC clan leaderboard.
+
+**Thoughts**: Slowly getting more and more comfortable tackling the challenges on CodeWars. A lot of the time it is just trying to understand the question!! Really need to think about taking on the Advanced Algorithm challenges on FreeCodeCamp. 
