@@ -216,4 +216,10 @@
 
 **Todays progress**: Completed some more Kata's on CodeWars, taken the top stop on the FCC clan leaderboard.
 
-**Thoughts**: Slowly getting more and more comfortable tackling the challenges on CodeWars. A lot of the time it is just trying to understand the question!! Really need to think about taking on the Advanced Algorithm challenges on FreeCodeCamp. 
+**Thoughts**: Slowly getting more and more comfortable tackling the challenges on CodeWars. A lot of the time it is just trying to understand the question!! Really need to think about taking on the Advanced Algorithm challenges on FreeCodeCamp.
+
+### Day 33: February 5th, Sunday
+
+**Todays progress**: Completed the Inventory Update and Friendly Date Range challenges on FreeCodeCamp.
+
+**Thoughts**: After a couple of days of not working on the FreeCodeCamp challenges I thought I would struggle to get back into it. However, I have been able to understand the questions and think of clear and concise solutions. I think completing Kata's on CodeWars has contributed to my improved understanding of the questions and some of the approaches I take to the problems.   
