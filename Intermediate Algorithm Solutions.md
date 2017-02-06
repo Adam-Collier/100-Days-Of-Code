@@ -511,7 +511,7 @@ sym([1, 1, 2, 5], [2, 3, 5], [3, 4, 5]);
 
 ### Inventory Update
 
-```javascript 
+```javascript
 function updateInventory(arr1, arr2) {
     // All inventory must be accounted for or you're fired!
     var obj = {};
@@ -558,4 +558,73 @@ var newInv = [
 ];
 
 updateInventory(curInv, newInv);
+```
+
+### Friendly Date Range
+
+```javascript
+function makeFriendlyDates(arr) {
+
+  var mon = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  arr = arr.map(function(x){
+    return x.split("-");
+  });
+
+  arr.map(function(x){
+
+    if(x[2].indexOf("0") !== -1) x[2] = x[2].substr(1);
+    switch (parseInt(x[2])) {
+      case 1:
+      case 21:
+      case 31:
+        x[2] += 'st';
+        break;
+      case 2:
+      case 22:
+        x[2] += 'nd';
+        break;
+      case 3:
+      case 23:
+        x[2] += 'rd';
+        break;
+      default:
+        x[2] += 'th';
+    }
+
+    if(x[1].indexOf("0") !== -1) x[1] = x[1].substr(1);
+
+    x[1] = mon[x[1]-1];
+    x.push(x[0]);
+    x.splice(0, 1);
+  });
+
+  //July, 1st, 2016
+
+  var a = arr[0];
+  var b = arr[1];
+  if(arr[0].toString() === arr[1].toString()){
+    return [a[0]+" "+a[1]+", "+a[2]];
+  }
+  if (a[2] == b[2] && a[0] == b[0]){
+    return [a[0]+" "+a[1], b[1]];
+  }
+  if(Math.abs(a[2] - b[2]) == 1 && a[0] !== b[0]){
+    return [a[0]+" "+a[1], b[0]+" "+b[1]];
+  }
+  if(a[0] == b[0] && a[1] == b[1] && a[2] !== b[2]){
+    return [a[0]+" "+a[1]+", "+a[2], b[0]+" "+b[1]+", "+b[2]];
+  }
+  if(b[2] - a[2] > 1){
+    return [a[0]+" "+a[1]+", "+a[2], b[0]+" "+b[1]+", "+ b[2]];
+  }
+  if(a[2] == b[2]){
+    return [a[0]+" "+a[1]+", "+a[2], b[0]+" "+b[1]];
+  }
+  if(Math.abs(a[2] - b[2]) == 1 && a[0] == b[0]){
+    return [a[0]+" "+a[1]+", "+a[2], b[0]+" "+b[1]];
+  }
+
+}
+
+makeFriendlyDates(["2022-09-05", "2023-09-05"]);
 ```
