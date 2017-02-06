@@ -508,3 +508,54 @@ return b.map(function(x){
 
 sym([1, 1, 2, 5], [2, 3, 5], [3, 4, 5]);
 ```
+
+### Inventory Update
+
+```javascript 
+function updateInventory(arr1, arr2) {
+    // All inventory must be accounted for or you're fired!
+    var obj = {};
+    arr1.map(function(x){
+      obj[x[1]] = x[0];
+    });
+
+    arr2.map(function(x){
+      if(obj.hasOwnProperty(x[1])){
+        obj[x[1]] += x[0];
+      }else{
+        obj[x[1]] = x[0];
+      }
+   });
+    var arr = [];
+    var keys = Object.keys(obj);
+    keys.map(function(x){
+      arr.push([x]);
+    });
+      for(var i = 0; i < arr.length; i++){
+        arr[i].push(obj[keys[i]]);
+      }
+    arr.sort();
+    arr.map(function(x){
+      x.push(x[0]);
+      x.splice(0, 1);
+    });
+    return arr;
+}
+
+// Example inventory lists
+var curInv = [
+    [21, "Bowling Ball"],
+    [2, "Dirty Sock"],
+    [1, "Hair Pin"],
+    [5, "Microphone"]
+];
+
+var newInv = [
+    [2, "Hair Pin"],
+    [3, "Half-Eaten Apple"],
+    [67, "Bowling Ball"],
+    [7, "Toothpaste"]
+];
+
+updateInventory(curInv, newInv);
+```
