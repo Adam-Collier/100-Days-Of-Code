@@ -628,3 +628,28 @@ function makeFriendlyDates(arr) {
 
 makeFriendlyDates(["2022-09-05", "2023-09-05"]);
 ```
+
+### Make A Person
+
+```javascript
+
+var Person = function(firstAndLast) {
+
+  this.getFullName = function(full){return firstAndLast;};
+  this.getFirstName = function(first){return firstAndLast.split(" ")[0];};
+  this.getLastName = function(second){return firstAndLast.split(" ")[1];};
+
+  this.setFirstName = function(first){
+    firstAndLast = first+" "+firstAndLast.split(" ")[1];
+  };
+  this.setLastName = function(second){
+    firstAndLast = firstAndLast.split(" ")[0]+" "+second;
+  };
+  this.setFullName = function(full){
+    firstAndLast = full;
+  };
+};
+
+var bob = new Person('Bob Ross');
+bob.getFirstName();
+```
