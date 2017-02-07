@@ -223,3 +223,9 @@
 **Todays progress**: Completed the Inventory Update and Friendly Date Range challenges on FreeCodeCamp.
 
 **Thoughts**: After a couple of days of not working on the FreeCodeCamp challenges I thought I would struggle to get back into it. However, I have been able to understand the questions and think of clear and concise solutions. I think completing Kata's on CodeWars has contributed to my improved understanding of the questions and some of the approaches I take to the problems.   
+
+### Day 34: February 6th, Monday
+
+**Todays progress**: Completed the Make A Person Challenge on FreeCodeCamp.
+
+**Thoughts**: Mostly a day of reading up about closures and object constructor functions. It took a while to understand the Make A Person challenge and use the argument in the set methods. Starting to look into node, currently watching videos by The Net Ninja and found a website called nodeschool.io which could be a great resource!
