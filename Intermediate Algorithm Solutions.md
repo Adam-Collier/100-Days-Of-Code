@@ -671,3 +671,38 @@ function orbitalPeriod(arr) {
 
 orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]);
 ```
+
+### PairWise
+
+```javascript
+function pairwise(arr, arg) {
+  var a = [];
+  arr.map(function(x, index){
+    arr.map(function(i, ind){
+      console.log(index,ind);
+      if(x + i == arg && a.indexOf(x) == -1 && arr.indexOf(i) !== arr.lastIndexOf(x)){
+        console.log(ind, index);
+        a.push(x, i);
+      }
+    });
+  });
+
+  a = a.filter(function(item, pos) {
+    return a.indexOf(item) == pos;
+  });
+  var res = 0;
+  a.map(function(y){
+    if(arr.indexOf(y) !== arr.lastIndexOf(y)){
+    res += arr.indexOf(y);
+    res += arr.indexOf(y)+1;
+  }else{
+    res += arr.indexOf(y);
+  }
+
+
+  });
+  return res;
+}
+
+pairwise([0, 0, 0, 0, 1, 1], 1);
+```
