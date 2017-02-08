@@ -232,6 +232,12 @@
 
 ### Day 35: February 7th, Tuesday
 
-**Todays progress**: Completed the Map the Debris and the Pairwise challenge on FreeCodeCamp.
+**Todays progress**: Completed the Map the Debris challenge on FreeCodeCamp.
 
-**Thoughts**: Made a lot of progress today. I found the questions relatively easy to get my head around, which made it a lot simpler to decide on what approach take. Again I am using a lot of higher order functions, especially the map method which has become a nice alternative to for loops. After today I need to look back at some earlier questions to understand some critical key principles and refactor my code. 
+**Thoughts**: Made a lot of progress today. I found the questions relatively easy to get my head around, which made it a lot simpler to decide on what approach take. Again I am using a lot of higher order functions, especially the map method which has become a nice alternative to for loops. After today I need to look back at some earlier questions to understand some critical key principles and refactor my code.
+
+### Day 36: February 8th, Wednesday
+
+**Todays progress**: Completed the Pairwise challenge on FreeCodeCamp.
+
+**Thoughts**: After spending a small frustrating period of time on the Pairwise challenge yesterday, I managed to successfully find a solution. Ill admit it feels a little bit hacky with the final if statement but it passes all of the freecodecamp tests. In hindsight I think using a for loop instead of the map method would have been more appropriate since once the desired values are found the loop can be broken. I think I will try to refactor my code and figure out some other possible solutions.
