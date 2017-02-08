@@ -229,3 +229,9 @@
 **Todays progress**: Completed the Make A Person Challenge on FreeCodeCamp.
 
 **Thoughts**: Mostly a day of reading up about closures and object constructor functions. It took a while to understand the Make A Person challenge and use the argument in the set methods. Starting to look into node, currently watching videos by The Net Ninja and found a website called nodeschool.io which could be a great resource!
+
+### Day 35: February 7th, Tuesday
+
+**Todays progress**: Completed the Map the Debris and the Pairwise challenge on FreeCodeCamp.
+
+**Thoughts**: Made a lot of progress today. I found the questions relatively easy to get my head around, which made it a lot simpler to decide on what approach take. Again I am using a lot of higher order functions, especially the map method which has become a nice alternative to for loops. After today I need to look back at some earlier questions to understand some critical key principles and refactor my code. 
