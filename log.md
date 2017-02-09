@@ -241,3 +241,9 @@
 **Todays progress**: Completed the Pairwise challenge on FreeCodeCamp.
 
 **Thoughts**: After spending a small frustrating period of time on the Pairwise challenge yesterday, I managed to successfully find a solution. Ill admit it feels a little bit hacky with the final if statement but it passes all of the freecodecamp tests. In hindsight I think using a for loop instead of the map method would have been more appropriate since once the desired values are found the loop can be broken. I think I will try to refactor my code and figure out some other possible solutions.
+
+### Day 37: February 9th, Thursday
+
+**Todays progress**: Refactored my code on FreeCodeCamp. Started creating a To-do application using node.js and express.js.
+
+**Thoughts**: This morning I focused on refactoring my code for the Pairwise challenge. I also looked back into the No Repeat Please challenge which I haven't completed yet. I will get into the right frame of mind and focus on that challenge tomorrow. Carried on watching the node tutorials from The Net Ninja and started to follow along with the node project playlist.
