@@ -7,10 +7,8 @@ function telephoneCheck(str) {
   // Good luck!
   var reg = /\d/g;
   var bra = /[()]/g;
-
   var a = str.match(reg);
   var b = str.match(bra);
-
 
   if(a.length === 10 || a.length === 11 && a[0] === "1"){
     if(str.indexOf(')') > 6 || str.indexOf('?') > 0){
@@ -20,16 +18,10 @@ function telephoneCheck(str) {
     }else{
       return true;
     }
-
   }else{
     return false;
   }
-
-
 }
-
-
-
 telephoneCheck("555-555-5555)");
 ```
 
@@ -235,27 +227,23 @@ function pairwise(arr, arg) {
   var a = [];
   arr.map(function(x, index){
     arr.map(function(i, ind){
-      console.log(index,ind);
       if(x + i == arg && a.indexOf(x) == -1 && arr.indexOf(i) !== arr.lastIndexOf(x)){
         console.log(ind, index);
         a.push(x, i);
       }
     });
   });
-
   a = a.filter(function(item, pos) {
     return a.indexOf(item) == pos;
   });
   var res = 0;
   a.map(function(y){
     if(arr.indexOf(y) !== arr.lastIndexOf(y)){
-    res += arr.indexOf(y);
-    res += arr.indexOf(y)+1;
-  }else{
-    res += arr.indexOf(y);
-  }
-
-
+      res += arr.indexOf(y);
+      res += arr.indexOf(y)+1;
+    }else{
+      res += arr.indexOf(y);
+    }
   });
   return res;
 }
