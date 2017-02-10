@@ -247,3 +247,9 @@
 **Todays progress**: Refactored my code on FreeCodeCamp. Started creating a To-do application using node.js and express.js.
 
 **Thoughts**: This morning I focused on refactoring my code for the Pairwise challenge. I also looked back into the No Repeat Please challenge which I haven't completed yet. I will get into the right frame of mind and focus on that challenge tomorrow. Carried on watching the node tutorials from The Net Ninja and started to follow along with the node project playlist.
+
+### Day 38: February 10th, Friday
+
+**Todays progress**: Completed my To-do application using node and express using a sandbox Mongodb database on mLab.
+
+**Thoughts**: Although I have completed the tutorial series and become more familiar with using node and express I am still a long way from being able to create my own applications from scratch. Therefore I am going to look at the docs and try and find some more resources which can push my learning even further. I have been recommended nodeschool.io previously so that may be a possible avenue to explore. Overall a good day. 
