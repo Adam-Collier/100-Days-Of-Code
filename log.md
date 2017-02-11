@@ -252,4 +252,10 @@
 
 **Todays progress**: Completed my To-do application using node and express using a sandbox Mongodb database on mLab.
 
-**Thoughts**: Although I have completed the tutorial series and become more familiar with using node and express I am still a long way from being able to create my own applications from scratch. Therefore I am going to look at the docs and try and find some more resources which can push my learning even further. I have been recommended nodeschool.io previously so that may be a possible avenue to explore. Overall a good day. 
+**Thoughts**: Although I have completed the tutorial series and become more familiar with using node and express I am still a long way from being able to create my own applications from scratch. Therefore I am going to look at the docs and try and find some more resources which can push my learning even further. I have been recommended nodeschool.io previously so that may be a possible avenue to explore. Overall a good day.
+
+### Day 39: February 11th, Saturday
+
+**Todays progress**: Started making my way through the LearnYouNode workshopper on NodeSchool.io.
+
+**Thoughts**: Really interesting to use the command line interface as a means of learning. Finding it a little frustrating having to keep typing learnnodeyou run project.js everytime I want to see how something is working. However, it is great being able to start understanding node and the importance of the command line is in developing applications. I really do need to get stuck into the Advances Algorithm challenges on FreeCodeCamp but Node is very exciting to me at the moment. I have a feeling this is mainly influenced by my failed interview at Sky.
