@@ -259,3 +259,9 @@
 **Todays progress**: Started making my way through the LearnYouNode workshopper on NodeSchool.io.
 
 **Thoughts**: Really interesting to use the command line interface as a means of learning. Finding it a little frustrating having to keep typing learnnodeyou run project.js everytime I want to see how something is working. However, it is great being able to start understanding node and the importance of the command line is in developing applications. I really do need to get stuck into the Advances Algorithm challenges on FreeCodeCamp but Node is very exciting to me at the moment. I have a feeling this is mainly influenced by my failed interview at Sky.
+
+### Day 40: February 12th, Sunday
+
+**Todays progress**: Completed the Filtered LS and Make It Modular challenges on nodeschool's LearnYouNode.
+
+**Thoughts**: Found the command line orientated learning quite difficult using nodeschool, especially when you are constantly testing your code. Maybe I need to think more about the code I am writing before running the programme. The Make It modular challenge was very difficult when I was trying to get my head around using the three arguments in the module but having to define them in the main js file. In my head I thought everything would be compacted into one bulk of code to require into the main js file. The main thing that threw me off was the defining the callback argument in the main js file.
