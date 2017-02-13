@@ -265,3 +265,9 @@
 **Todays progress**: Completed the Filtered LS and Make It Modular challenges on nodeschool's LearnYouNode.
 
 **Thoughts**: Found the command line orientated learning quite difficult using nodeschool, especially when you are constantly testing your code. Maybe I need to think more about the code I am writing before running the programme. The Make It modular challenge was very difficult when I was trying to get my head around using the three arguments in the module but having to define them in the main js file. In my head I thought everything would be compacted into one bulk of code to require into the main js file. The main thing that threw me off was the defining the callback argument in the main js file.
+
+### Day 41: February 12th, Monday
+
+**Todays progress**: Started watching the CS50 videos online to improve my understanding of Computer Science.
+
+**Thoughts**: Didn't get much time today to focus and do some coding. Instead I watched the second episode of Harvards CS50 online, which I think could be a great resource to fill in some of the gaps in my knowledge. It does do a lot of the examples in C but the principles can definitely be passed over into Javascript. To be fair it will be interesting to see how things differ in C compared to Javascript, at the moment I can see that data types are used for declaring functions or variables of different types. This is interesting because you don't have to do that in Javascript, is this a blessing or a burden? Im not too sure at the minute, but I'm excited to find out.   
