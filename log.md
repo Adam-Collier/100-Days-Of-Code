@@ -266,8 +266,14 @@
 
 **Thoughts**: Found the command line orientated learning quite difficult using nodeschool, especially when you are constantly testing your code. Maybe I need to think more about the code I am writing before running the programme. The Make It modular challenge was very difficult when I was trying to get my head around using the three arguments in the module but having to define them in the main js file. In my head I thought everything would be compacted into one bulk of code to require into the main js file. The main thing that threw me off was the defining the callback argument in the main js file.
 
-### Day 41: February 12th, Monday
+### Day 41: February 13th, Monday
 
 **Todays progress**: Started watching the CS50 videos online to improve my understanding of Computer Science.
 
 **Thoughts**: Didn't get much time today to focus and do some coding. Instead I watched the second episode of Harvards CS50 online, which I think could be a great resource to fill in some of the gaps in my knowledge. It does do a lot of the examples in C but the principles can definitely be passed over into Javascript. To be fair it will be interesting to see how things differ in C compared to Javascript, at the moment I can see that data types are used for declaring functions or variables of different types. This is interesting because you don't have to do that in Javascript, is this a blessing or a burden? Im not too sure at the minute, but I'm excited to find out.   
+
+### Day 42: February 14th, Tuesday
+
+**Todays progress**: Started the Advanced Front End Development projects on FreeCodeCamp. Finished watching a CS50 video that I only got half way through the other day.  
+
+**Thoughts**: I began by searching around dribble for some design inspiration which I could then translate into HTML and CSS. I decided on a very minimalistic theme with most of the definition coming from some clever uses of the box shadow attribute. Found the positioning of the buttons very easy using flexbox and created the spacing using some margin. For the moment I have a placeholder p tag which will eventually become the display input for the buttons. I will add some subtle animations when the user either hovers or clicks one of the buttons. At the moment I am thinking the click could be the most effective since it visually informs the users that their click has been registered. Next I have to start thinking about the functionality of the calculator.  
