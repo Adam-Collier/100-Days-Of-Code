@@ -276,4 +276,10 @@
 
 **Todays progress**: Started the Advanced Front End Development projects on FreeCodeCamp. Finished watching a CS50 video that I only got half way through the other day.  
 
-**Thoughts**: I began by searching around dribble for some design inspiration which I could then translate into HTML and CSS. I decided on a very minimalistic theme with most of the definition coming from some clever uses of the box shadow attribute. Found the positioning of the buttons very easy using flexbox and created the spacing using some margin. For the moment I have a placeholder p tag which will eventually become the display input for the buttons. I will add some subtle animations when the user either hovers or clicks one of the buttons. At the moment I am thinking the click could be the most effective since it visually informs the users that their click has been registered. Next I have to start thinking about the functionality of the calculator.  
+**Thoughts**: I began by searching around dribble for some design inspiration which I could then translate into HTML and CSS. I decided on a very minimalistic theme with most of the definition coming from some clever uses of the box shadow attribute. Found the positioning of the buttons very easy using flexbox and created the spacing using some margin. For the moment I have a placeholder p tag which will eventually become the display input for the buttons. I will add some subtle animations when the user either hovers or clicks one of the buttons. At the moment I am thinking the click could be the most effective since it visually informs the users that their click has been registered.
+
+### Day 43: February 15th, Wednesday
+
+**Todays progress**: Making progress on the calculator, the design is done, just got to work on the functionality of it all.
+
+**Thoughts**: Making a lot of progress pretty quickly on the calculator project. At the moment I am manipulating the DOM when the user clicks on a button with a specific value to display those values. Then once an operator has been click it moves it all into a "history" section within the display div. All I really need to do now is sum the numbers together. At first I was going to do it all in the DOM but on second thought I think using an array and manipulating the values that way would be a lot more appropriate. 
