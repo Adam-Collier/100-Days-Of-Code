@@ -291,3 +291,9 @@
 **Thoughts**: Very happy with how today has gone. The only issue I had was when I wanted to change a string of operators and numbers into numbers that I could then sum together. Quite controversially I used eval() on the string instead of parsing the string into integers and having to somehow to generate the sums. I thought that would have been a difficult approach because of the operators, I would have had to separate the numbers and operators and to parse the numbers then bring them back together in the same order to then sum. Because of this I thought in this instance it would be acceptable to use eval() on the string because all of the values were generated from a selection of button presses. Another option was to create a function and then immediately invoke it to return the summed values. There is possibly a few more tweaks that can be made but I will dedicate time in the future to improve on all of my past projects.
 
 [Calculator](https://adam-collier.github.io/Calculator/)
+
+### Day 45: February 17th, Friday
+
+**Todays progress**: Watched another CS50 video. Tweaked the calculator a little so it begins with a 0 in the display.  
+
+**Thoughts**: Learnt about the problems we can face with integers when they exceed the limit for 16 bit and 64 bits and their effects on a softwares performance with potentially disastrous consequences. I have received a brief/task to build a webpage with a deadline for next Friday, so I will most likely be investing a lot of time into that this week. It seems from first glance it is going to be heavily HTML & CSS oriented. Didn't get as much free time today as I thought I would so not a lot of code has been written today. 
