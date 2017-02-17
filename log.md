@@ -282,4 +282,12 @@
 
 **Todays progress**: Making progress on the calculator, the design is done, just got to work on the functionality of it all.
 
-**Thoughts**: Making a lot of progress pretty quickly on the calculator project. At the moment I am manipulating the DOM when the user clicks on a button with a specific value to display those values. Then once an operator has been click it moves it all into a "history" section within the display div. All I really need to do now is sum the numbers together. At first I was going to do it all in the DOM but on second thought I think using an array and manipulating the values that way would be a lot more appropriate. 
+**Thoughts**: Making a lot of progress pretty quickly on the calculator project. At the moment I am manipulating the DOM when the user clicks on a button with a specific value to display those values. Then once an operator has been click it moves it all into a "history" section within the display div. All I really need to do now is sum the numbers together. At first I was going to do it all in the DOM but on second thought I think using an array and manipulating the values that way would be a lot more appropriate.
+
+### Day 44: February 16th, Thursday
+
+**Todays progress**: Completed my Calculator for one of the FreeCodeCamp Advanced projects!
+
+**Thoughts**: Very happy with how today has gone. The only issue I had was when I wanted to change a string of operators and numbers into numbers that I could then sum together. Quite controversially I used eval() on the string instead of parsing the string into integers and having to somehow to generate the sums. I thought that would have been a difficult approach because of the operators, I would have had to separate the numbers and operators and to parse the numbers then bring them back together in the same order to then sum. Because of this I thought in this instance it would be acceptable to use eval() on the string because all of the values were generated from a selection of button presses. Another option was to create a function and then immediately invoke it to return the summed values. There is possibly a few more tweaks that can be made but I will dedicate time in the future to improve on all of my past projects.
+
+[Calculator](https://adam-collier.github.io/Calculator/)
