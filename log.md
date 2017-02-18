@@ -296,4 +296,10 @@
 
 **Todays progress**: Watched another CS50 video. Tweaked the calculator a little so it begins with a 0 in the display.  
 
-**Thoughts**: Learnt about the problems we can face with integers when they exceed the limit for 16 bit and 64 bits and their effects on a softwares performance with potentially disastrous consequences. I have received a brief/task to build a webpage with a deadline for next Friday, so I will most likely be investing a lot of time into that this week. It seems from first glance it is going to be heavily HTML & CSS oriented. Didn't get as much free time today as I thought I would so not a lot of code has been written today. 
+**Thoughts**: Learnt about the problems we can face with integers when they exceed the limit for 16 bit and 64 bits and their effects on a softwares performance with potentially disastrous consequences. I have received a brief/task to build a webpage with a deadline for next Friday, so I will most likely be investing a lot of time into that this week. It seems from first glance it is going to be heavily HTML & CSS oriented. Didn't get as much free time today as I thought I would so not a lot of code has been written today.
+
+### Day 46: February 18th, Saturday
+
+**Todays progress**: Started looking into how to use GIF's and videos for the task I have been given.
+
+**Thoughts**: Since I was sent a youtube video to use within the website I thought for load times and functionality sake embedding the video would be the best solution. However, I didn't realise how much of the Youtube branding comes a long with the embedded videos. Youtube does have some URL parameters to remove some of the info, the controls and the ability to loop and autoplay but there is always a Youtube logo there which is a little annoying especially because then the branding could easily be associated with Youtube when it isn't. I have also tried a video tag in the html but the controls aren't very sleek which is what you need for a vision oriented site. On the plus side I have been making some GIF's from the products which are looking great!
