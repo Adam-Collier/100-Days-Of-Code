@@ -303,3 +303,9 @@
 **Todays progress**: Started looking into how to use GIF's and videos for the task I have been given.
 
 **Thoughts**: Since I was sent a youtube video to use within the website I thought for load times and functionality sake embedding the video would be the best solution. However, I didn't realise how much of the Youtube branding comes a long with the embedded videos. Youtube does have some URL parameters to remove some of the info, the controls and the ability to loop and autoplay but there is always a Youtube logo there which is a little annoying especially because then the branding could easily be associated with Youtube when it isn't. I have also tried a video tag in the html but the controls aren't very sleek which is what you need for a vision oriented site. On the plus side I have been making some GIF's from the products which are looking great!
+
+### Day 47: February 19th, Sunday
+
+**Todays progress**: Started coding the navigation and building the structure for the page.
+
+**Thoughts**: The navigation was pretty simple to do, although it did take a little bit of time getting the SVG info from the original page. After that there was the issue of positioning. I decided to absolute position the majority of the elements in the navbar since then I had full control of their spacing and how they interact. I have added a banner for the campaign which I have been tasked. I am not yet happy with how the opening text and the video work visually, so thats something I need to do tomorrow. All in all it has been a productive and successful day since I did most of it whilst travelling too. 
