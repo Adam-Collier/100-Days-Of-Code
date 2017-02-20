@@ -308,4 +308,10 @@
 
 **Todays progress**: Started coding the navigation and building the structure for the page.
 
-**Thoughts**: The navigation was pretty simple to do, although it did take a little bit of time getting the SVG info from the original page. After that there was the issue of positioning. I decided to absolute position the majority of the elements in the navbar since then I had full control of their spacing and how they interact. I have added a banner for the campaign which I have been tasked. I am not yet happy with how the opening text and the video work visually, so thats something I need to do tomorrow. All in all it has been a productive and successful day since I did most of it whilst travelling too. 
+**Thoughts**: The navigation was pretty simple to do, although it did take a little bit of time getting the SVG info from the original page. After that there was the issue of positioning. I decided to absolute position the majority of the elements in the navbar since then I had full control of their spacing and how they interact. I have added a banner for the campaign which I have been tasked. I am not yet happy with how the opening text and the video work visually, so thats something I need to do tomorrow. All in all it has been a productive and successful day since I did most of it whilst travelling too.
+
+### Day 48: February 20th, Monday
+
+**Todays progress**: Built up the structure of the page and started to integrate the products.
+
+**Thoughts**: Instead of using float, margin auto and absolute positioning I was adamant that I would learn flexbox and utilise it in this project. Partly because my knowledge of flexbox isn't great but once I have learned it I will be confident to use it in other projects. There was a little trial and error at points but overall it has worked really well and because I am using flexbox when it comes to making the page responsive it will be a cinch. Looking to tomorrow I need to add a few more products, start to work on the footer and then responsivity! At the moment I am feeling pretty positive, may look into adding some animations via javascript...
