@@ -315,3 +315,9 @@
 **Todays progress**: Built up the structure of the page and started to integrate the products.
 
 **Thoughts**: Instead of using float, margin auto and absolute positioning I was adamant that I would learn flexbox and utilise it in this project. Partly because my knowledge of flexbox isn't great but once I have learned it I will be confident to use it in other projects. There was a little trial and error at points but overall it has worked really well and because I am using flexbox when it comes to making the page responsive it will be a cinch. Looking to tomorrow I need to add a few more products, start to work on the footer and then responsivity! At the moment I am feeling pretty positive, may look into adding some animations via javascript...
+
+### Day 49: February 21st, Tuesday
+
+**Todays progress**: Added some responsivity and flexibility with the image sizes and how they react to the size of the window.
+
+**Thoughts**: I am finally feeling as as though I have a grasp on flexbox and able to utilise its capabilities. I was working on making the images adapt to the width of the screen and wrap when the images were at a certain width value. At the moment it is all working together pretty well, the only issue I have is that the video section isn't mobile responsive so it is making the page far too wide on mobile. It should be an easy fix, I just need to decide on what elements to keep and which ones to discard for the best user mobile user experience. 
