@@ -320,4 +320,10 @@
 
 **Todays progress**: Added some responsivity and flexibility with the image sizes and how they react to the size of the window.
 
-**Thoughts**: I am finally feeling as as though I have a grasp on flexbox and able to utilise its capabilities. I was working on making the images adapt to the width of the screen and wrap when the images were at a certain width value. At the moment it is all working together pretty well, the only issue I have is that the video section isn't mobile responsive so it is making the page far too wide on mobile. It should be an easy fix, I just need to decide on what elements to keep and which ones to discard for the best user mobile user experience. 
+**Thoughts**: I am finally feeling as as though I have a grasp on flexbox and able to utilise its capabilities. I was working on making the images adapt to the width of the screen and wrap when the images were at a certain width value. At the moment it is all working together pretty well, the only issue I have is that the video section isn't mobile responsive so it is making the page far too wide on mobile. It should be an easy fix, I just need to decide on what elements to keep and which ones to discard for the best user mobile user experience.
+
+### Day 50: February 22nd, Wednesday
+
+**Todays progress**: Started to add some elements to make the page more engaging for the visitors.
+
+**Thoughts**: It has been interesting thinking about user engagement and the best ways to go about it. You don't want to overwhelm the visitor with loud music or the constant flickering of imagery therefore I feel there has to be an element of control or at least guide the user to potentially interactive elements within the page. 
