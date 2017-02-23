@@ -326,4 +326,10 @@
 
 **Todays progress**: Started to add some elements to make the page more engaging for the visitors.
 
-**Thoughts**: It has been interesting thinking about user engagement and the best ways to go about it. You don't want to overwhelm the visitor with loud music or the constant flickering of imagery therefore I feel there has to be an element of control or at least guide the user to potentially interactive elements within the page. 
+**Thoughts**: It has been interesting thinking about user engagement and the best ways to go about it. You don't want to overwhelm the visitor with loud music or the constant flickering of imagery therefore I feel there has to be an element of control or at least guide the user to potentially interactive elements within the page.
+
+### Day 51: February 23rd, Thursday
+
+**Todays progress**: Added some GIF animations on hover and made everything mobile responsive.
+
+**Thoughts**: Making the site responsive was pretty straight forward, mostly using media queries to change padding and margins on some of the elements so they didn't have any huge or tiny gaps between each other. Added some JS that changes a static jpg into a GIF when an image is hovered to show different examples of the product, this was simple but the approach I took isn't very DRY. 
