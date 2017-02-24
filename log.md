@@ -332,4 +332,10 @@
 
 **Todays progress**: Added some GIF animations on hover and made everything mobile responsive.
 
-**Thoughts**: Making the site responsive was pretty straight forward, mostly using media queries to change padding and margins on some of the elements so they didn't have any huge or tiny gaps between each other. Added some JS that changes a static jpg into a GIF when an image is hovered to show different examples of the product, this was simple but the approach I took isn't very DRY. 
+**Thoughts**: Making the site responsive was pretty straight forward, mostly using media queries to change padding and margins on some of the elements so they didn't have any huge or tiny gaps between each other. Added some JS that changes a static jpg into a GIF when an image is hovered to show different examples of the product, this was simple but the approach I took isn't very DRY.
+
+### Day 52: February 24th, Friday
+
+**Todays progress**: Familiarising myself with React via Youtube videos
+
+**Thoughts**: Still need to get stuck into the Tic Tac Toe challenge on FreeCodeCamp and I also want to start looking into the Eventbrite API to help out a local organisation with their events with their website. They want their events page to automatically update when they add a new event to Eventbrite. Still trying to get stuck into React, however at the moment the information isn't sticking. 
