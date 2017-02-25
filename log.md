@@ -338,4 +338,10 @@
 
 **Todays progress**: Familiarising myself with React via Youtube videos
 
-**Thoughts**: Still need to get stuck into the Tic Tac Toe challenge on FreeCodeCamp and I also want to start looking into the Eventbrite API to help out a local organisation with their events with their website. They want their events page to automatically update when they add a new event to Eventbrite. Still trying to get stuck into React, however at the moment the information isn't sticking. 
+**Thoughts**: Still need to get stuck into the Tic Tac Toe challenge on FreeCodeCamp and I also want to start looking into the Eventbrite API to help out a local organisation with their events with their website. They want their events page to automatically update when they add a new event to Eventbrite. Still trying to get stuck into React, however at the moment the information isn't sticking.
+
+### Day 53: February 25th, Saturday
+
+**Todays progress**: Found some great React resources, completed some of the React curriculum on the FreeCodeCamp beta and learned how to deploy an app to Heroku.
+
+**Thoughts**: Made some good progress with React and found a lot of great resources to use going forward. It was my first time deploying a node application online and it had its snags here and there with the port and the start script in the package json, but after that was resolved it was fine. The guys on the FCC slack had fun trying to break my app(which they did a few times) but that only makes me consider things more when I am developing and deploying an app online, especially when a database is involved. 
