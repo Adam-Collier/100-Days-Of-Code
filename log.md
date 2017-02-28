@@ -356,4 +356,10 @@
 
 **Todays progress**: Starting to familiarise myself with webpack. Looked more into my weaker areas of javascript knowledge. This included recursion, currying and closures.
 
-**Thoughts**: Found a great resource on scotch.io for setting up webpack and understanding the fundamentals. I also found a how-to webpack guide by Pete Hunt which seems to have a lot of info that gets straight to the point too. I have also been working on the weaker areas of my javascript knowledge. The youtube videos by funfunfunction have helped to improve my understanding to some extent but only using simple examples. 
+**Thoughts**: Found a great resource on scotch.io for setting up webpack and understanding the fundamentals. I also found a how-to webpack guide by Pete Hunt which seems to have a lot of info that gets straight to the point too. I have also been working on the weaker areas of my javascript knowledge. The youtube videos by funfunfunction have helped to improve my understanding to some extent but only using simple examples.
+
+### Day 56: February 28th, Tuesday
+
+**Todays progress**: Designed some mockups for the FCC Manchester website using Sketch.
+
+**Thoughts**: I created two mockups on the website because I wasn't sure how well the nav bar on the left would work. I felt that the nav bar would take up a lot of space that could be used for some great content. I really love the nav bar drawer that is used in the Lanyon template for Jekyll and I think something similar could work well for the page, even if it is just on the mobile site. But we shall see... I think the nav bar at the top definitely works better especially with the logo I have created for the meetup.  
