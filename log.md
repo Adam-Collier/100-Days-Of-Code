@@ -362,4 +362,10 @@
 
 **Todays progress**: Designed some mockups for the FCC Manchester website using Sketch.
 
-**Thoughts**: I created two mockups on the website because I wasn't sure how well the nav bar on the left would work. I felt that the nav bar would take up a lot of space that could be used for some great content. I really love the nav bar drawer that is used in the Lanyon template for Jekyll and I think something similar could work well for the page, even if it is just on the mobile site. But we shall see... I think the nav bar at the top definitely works better especially with the logo I have created for the meetup.  
+**Thoughts**: I created two mockups on the website because I wasn't sure how well the nav bar on the left would work. I felt that the nav bar would take up a lot of space that could be used for some great content. I really love the nav bar drawer that is used in the Lanyon template for Jekyll and I think something similar could work well for the page, even if it is just on the mobile site. But we shall see... I think the nav bar at the top definitely works better especially with the logo I have created for the meetup.
+
+### Day 57: February 29th, Wednesday
+
+**Todays progress**: Started pair programming on the FCC website focusing on webpack, installing dependencies as well as CSS and Javascript loaders. We are building up a a strong folder structure for the site and making sure that everything is well documented and easy to follow so members on the meetup can get involved and contribute.
+
+**Thoughts**: Been an adventurous day building a new project using Webpack, it was good to work with two other people and learn what they know about the configuration of Webpack but also how it all works together which i feel was really valuable information. Starting to feel a lot more comfortable using node and how to start a Webpack config from scratch. However, there is definitely a long way to go.
