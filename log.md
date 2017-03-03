@@ -369,3 +369,9 @@
 **Todays progress**: Started pair programming on the FCC website focusing on webpack, installing dependencies as well as CSS and Javascript loaders. We are building up a a strong folder structure for the site and making sure that everything is well documented and easy to follow so members on the meetup can get involved and contribute.
 
 **Thoughts**: Been an adventurous day building a new project using Webpack, it was good to work with two other people and learn what they know about the configuration of Webpack but also how it all works together which i feel was really valuable information. Starting to feel a lot more comfortable using node and how to start a Webpack config from scratch. However, there is definitely a long way to go.
+
+### Day 58: February 30th, Friday
+
+**Todays progress**: Continued learning React via FreeCodeCamps beta
+
+**Thoughts**: Started to grasp the idea of components and writing JSX syntax. I definitely see a lot of potential in React and Im glad we will be using it for the FCC website so I can practice and start to hone in my skills. 
