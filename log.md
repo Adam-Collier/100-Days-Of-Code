@@ -374,4 +374,10 @@
 
 **Todays progress**: Continued learning React via FreeCodeCamps beta
 
-**Thoughts**: Started to grasp the idea of components and writing JSX syntax. I definitely see a lot of potential in React and Im glad we will be using it for the FCC website so I can practice and start to hone in my skills. 
+**Thoughts**: Started to grasp the idea of components and writing JSX syntax. I definitely see a lot of potential in React and Im glad we will be using it for the FCC website so I can practice and start to hone in my skills.
+
+### Day 59: February 31st, Saturday
+
+**Todays progress**: Completed some challenges on the FreeCodeCamp beta and started to go through the tutorial on the offical React website to further my understanding.
+
+**Thoughts**: Today has gone pretty well, I am starting to understand React more through repetition in creating the components and writing JSX and rendering the components. 
