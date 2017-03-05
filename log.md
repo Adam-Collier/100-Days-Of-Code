@@ -364,20 +364,32 @@
 
 **Thoughts**: I created two mockups on the website because I wasn't sure how well the nav bar on the left would work. I felt that the nav bar would take up a lot of space that could be used for some great content. I really love the nav bar drawer that is used in the Lanyon template for Jekyll and I think something similar could work well for the page, even if it is just on the mobile site. But we shall see... I think the nav bar at the top definitely works better especially with the logo I have created for the meetup.
 
-### Day 57: February 29th, Wednesday
+### Day 57: March 1st, Wednesday
 
 **Todays progress**: Started pair programming on the FCC website focusing on webpack, installing dependencies as well as CSS and Javascript loaders. We are building up a a strong folder structure for the site and making sure that everything is well documented and easy to follow so members on the meetup can get involved and contribute.
 
 **Thoughts**: Been an adventurous day building a new project using Webpack, it was good to work with two other people and learn what they know about the configuration of Webpack but also how it all works together which i feel was really valuable information. Starting to feel a lot more comfortable using node and how to start a Webpack config from scratch. However, there is definitely a long way to go.
 
-### Day 58: February 30th, Friday
+### Day 58: March 2nd, Friday
 
 **Todays progress**: Continued learning React via FreeCodeCamps beta
 
 **Thoughts**: Started to grasp the idea of components and writing JSX syntax. I definitely see a lot of potential in React and Im glad we will be using it for the FCC website so I can practice and start to hone in my skills.
 
-### Day 59: February 31st, Saturday
+### Day 59: March 3rd, Saturday
 
 **Todays progress**: Completed some challenges on the FreeCodeCamp beta and started to go through the tutorial on the offical React website to further my understanding.
 
-**Thoughts**: Today has gone pretty well, I am starting to understand React more through repetition in creating the components and writing JSX and rendering the components. 
+**Thoughts**: Today has gone pretty well, I am starting to understand React more through repetition in creating the components and writing JSX and rendering the components.
+
+### Day 60: March 4th, Saturday
+
+**Todays progress**: Completed some challenges on the FreeCodeCamp beta and started to go through the tutorial on the offical React website to further my understanding.
+
+**Thoughts**: Today has gone pretty well, I am starting to understand React more through repetition in creating the components and writing JSX and rendering the components.
+
+### Day 61: March 5th, Sunday
+
+**Todays progress**: Added sass-loader, extract-text-webpack-plugin, node-sass, postcss-loader and web-dev-server to the project.
+
+**Thoughts**: The sass loader was introduced as a transplier for the style.sass file since we are going to be working in sass/scss and take advantage of nesting and variables to make code more reusable and easier to write. Instead of the CSS being injected via style tags into the head of the index.html we are using the extract-text-webpack-plugin to take all of the inline CSS and create a new CSS file in the build folder, by doing this the page should load quicker since bundle.js doesn't have to inject the CSS and also handle the js. To make sure our website works well across all browsers we are using postcss-loader in order to autoprefix the CSS. Essentially it runs through the CSS seeing if any properties could be improved for better browser compatibility, and if they can the relevant properties are generated and added. We also wanted a server which live reloads on changes to js, HTML and CSS, thats where the web-dev-server comes in. A little configuration was needed to get the html reload working but in the end it was a pretty simple solution.
