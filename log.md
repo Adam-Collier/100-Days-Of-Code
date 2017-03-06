@@ -370,21 +370,15 @@
 
 **Thoughts**: Been an adventurous day building a new project using Webpack, it was good to work with two other people and learn what they know about the configuration of Webpack but also how it all works together which i feel was really valuable information. Starting to feel a lot more comfortable using node and how to start a Webpack config from scratch. However, there is definitely a long way to go.
 
-### Day 58: March 2nd, Friday
+### Day 58: March 3rd, Friday
 
 **Todays progress**: Continued learning React via FreeCodeCamps beta
 
 **Thoughts**: Started to grasp the idea of components and writing JSX syntax. I definitely see a lot of potential in React and Im glad we will be using it for the FCC website so I can practice and start to hone in my skills.
 
-### Day 59: March 3rd, Saturday
+### Day 59: March 4th, Saturday
 
-**Todays progress**: Completed some challenges on the FreeCodeCamp beta and started to go through the tutorial on the offical React website to further my understanding.
-
-**Thoughts**: Today has gone pretty well, I am starting to understand React more through repetition in creating the components and writing JSX and rendering the components.
-
-### Day 60: March 4th, Saturday
-
-**Todays progress**: Completed some challenges on the FreeCodeCamp beta and started to go through the tutorial on the offical React website to further my understanding.
+**Todays progress**: Completed some challenges on the FreeCodeCamp beta and started to go through the tutorial on the official React website to further my understanding.
 
 **Thoughts**: Today has gone pretty well, I am starting to understand React more through repetition in creating the components and writing JSX and rendering the components.
 
@@ -393,3 +387,9 @@
 **Todays progress**: Added sass-loader, extract-text-webpack-plugin, node-sass, postcss-loader and web-dev-server to the project.
 
 **Thoughts**: The sass loader was introduced as a transplier for the style.sass file since we are going to be working in sass/scss and take advantage of nesting and variables to make code more reusable and easier to write. Instead of the CSS being injected via style tags into the head of the index.html we are using the extract-text-webpack-plugin to take all of the inline CSS and create a new CSS file in the build folder, by doing this the page should load quicker since bundle.js doesn't have to inject the CSS and also handle the js. To make sure our website works well across all browsers we are using postcss-loader in order to autoprefix the CSS. Essentially it runs through the CSS seeing if any properties could be improved for better browser compatibility, and if they can the relevant properties are generated and added. We also wanted a server which live reloads on changes to js, HTML and CSS, thats where the web-dev-server comes in. A little configuration was needed to get the html reload working but in the end it was a pretty simple solution.
+
+### Day 62: March 6th, Monday
+
+**Todays progress**: Restarted Learnyounode, managed to reach up to HTTP Collect challenge.
+
+**Thoughts**: On my second attempt at Learnyounode I have definitely found it a lot easier to understand. I am really starting the grasp the use of modules and requiring them into a project. I am also feeling a lot more comfortable with asynchronous and synchronous functions. Reading the docs has been incredibly helpful in understanding syntax and how to use the Node API.
