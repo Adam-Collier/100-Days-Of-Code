@@ -393,3 +393,9 @@
 **Todays progress**: Restarted Learnyounode, managed to reach up to HTTP Collect challenge.
 
 **Thoughts**: On my second attempt at Learnyounode I have definitely found it a lot easier to understand. I am really starting the grasp the use of modules and requiring them into a project. I am also feeling a lot more comfortable with asynchronous and synchronous functions. Reading the docs has been incredibly helpful in understanding syntax and how to use the Node API.
+
+### Day 63: March 7th, Tuesday
+
+**Todays progress**: Continued with Learnyounode, currently working on the Time Server challenge.
+
+**Thoughts**: Today has been pretty successful. I didn't get through as much as I would have liked but I think in terms of understanding how everything is working and thought processes, progress has been made. The only hurdle I really had to overcome today was ordering some get requests which took a little bit of time to get my head around, but I got there eventually. I may need to look into promises a little more to get a better understanding of how they can be used in situations like this. 
