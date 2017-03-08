@@ -398,4 +398,10 @@
 
 **Todays progress**: Continued with Learnyounode, currently working on the Time Server challenge.
 
-**Thoughts**: Today has been pretty successful. I didn't get through as much as I would have liked but I think in terms of understanding how everything is working and thought processes, progress has been made. The only hurdle I really had to overcome today was ordering some get requests which took a little bit of time to get my head around, but I got there eventually. I may need to look into promises a little more to get a better understanding of how they can be used in situations like this. 
+**Thoughts**: Today has been pretty successful. I didn't get through as much as I would have liked but I think in terms of understanding how everything is working and thought processes, progress has been made. The only hurdle I really had to overcome today was ordering some get requests which took a little bit of time to get my head around, but I got there eventually. I may need to look into promises a little more to get a better understanding of how they can be used in situations like this.
+
+### Day 64: March 8th, Wednesday
+
+**Todays progress**: Reached the last challenge in Learnyounode, started expressworks and streams-adventure which are some other node school workshoppers.
+
+**Thoughts**: Havent fully completed the Learnyounode curriculum yet since I don't really understand what is going on. Therefore for now I have moved onto the expressworks and streams-adventure workshoppers to hopefully improve my understanding whilst improving my skills in other important areas. 
