@@ -404,4 +404,10 @@
 
 **Todays progress**: Reached the last challenge in Learnyounode, started expressworks and streams-adventure which are some other node school workshoppers.
 
-**Thoughts**: Havent fully completed the Learnyounode curriculum yet since I don't really understand what is going on. Therefore for now I have moved onto the expressworks and streams-adventure workshoppers to hopefully improve my understanding whilst improving my skills in other important areas. 
+**Thoughts**: Havent fully completed the Learnyounode curriculum yet since I don't really understand what is going on. Therefore for now I have moved onto the expressworks and streams-adventure workshoppers to hopefully improve my understanding whilst improving my skills in other important areas.
+
+### Day 65: March 9th, Thursday
+
+**Todays progress**: Completed the majority of the stream adventure workshoppers on nodeschool.
+
+**Thoughts**: Really focused on the stream adventure workshopper today to improve my understanding of streams and how they can be used. Looking forward this will help me understand express a lot more but also fully understand everything from the LearnYouNode workshopper. There have been many times I have been totally confused but by reading around and seeing other examples I am definitely making progress. I am still finding the Node docs to be particularly hard to read, especially when it comes to a lot of the examples.
