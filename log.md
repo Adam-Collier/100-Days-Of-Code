@@ -416,4 +416,10 @@
 
 **Todays progress**: Continued with the Stream Adventure workshopper on nodeschool, currently working on the Duplexer challenge.
 
-**Thoughts**: I didnt get much time to do a lot of code today, I just managed to do a little before work and on the train. I am still feeling a little confused about what Im actually doing in the Stream Adventure challenges and a lot of it is just going over my head. Once I have completed all of the chalenges I will fill in the gaps in my knowledge and complete the challanges again. 
+**Thoughts**: I didnt get much time to do a lot of code today, I just managed to do a little before work and on the train. I am still feeling a little confused about what Im actually doing in the Stream Adventure challenges and a lot of it is just going over my head. Once I have completed all of the chalenges I will fill in the gaps in my knowledge and complete the challanges again.
+
+### Day 67: March 11th, Saturday
+
+**Todays progress**: Watched Net Ninja videos on reading streams, writing streams and piping. Also started watching the build an API with Node videos by The Coding Train
+
+**Thoughts**: Really wanted to make sure I understand the fundamentals of Node streams. I chose to watch videos because sometimes I understand something if it is explained differently or with different examples. Also then you can actually see them writing the code and explaining each step. 
