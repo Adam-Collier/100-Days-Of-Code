@@ -422,4 +422,10 @@
 
 **Todays progress**: Watched Net Ninja videos on reading streams, writing streams and piping. Also started watching the build an API with Node videos by The Coding Train
 
-**Thoughts**: Really wanted to make sure I understand the fundamentals of Node streams. I chose to watch videos because sometimes I understand something if it is explained differently or with different examples. Also then you can actually see them writing the code and explaining each step. 
+**Thoughts**: Really wanted to make sure I understand the fundamentals of Node streams. I chose to watch videos because sometimes I understand something if it is explained differently or with different examples. Also then you can actually see them writing the code and explaining each step.
+
+### Day 68: March 12th, Sunday
+
+**Todays progress**: Continued watching Daniel Shiffman's videos on creating and API using Node and Express.
+
+**Thoughts**: Steadily starting to understand the structure and syntax of a Node and Express application and also the possibilities of what can be done.
