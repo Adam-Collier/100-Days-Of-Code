@@ -426,6 +426,18 @@
 
 ### Day 68: March 12th, Sunday
 
-**Todays progress**: Continued watching Daniel Shiffman's videos on creating and API using Node and Express.
+**Todays progress**: Continued watching Daniel Shiffman's videos on creating an API using Node and Express.
 
 **Thoughts**: Steadily starting to understand the structure and syntax of a Node and Express application and also the possibilities of what can be done.
+
+### Day 69: March 13th, Monday
+
+**Todays progress**: Finished watching the last of Daniel Shiffman's videos on creating an API using Express and Node
+
+**Thoughts**: Getting to grips with how Express works with Node and how it can be a great tool
+
+### Day 70: March 14th, Tuesday
+
+**Todays progress**: Started the Expressworks workshopper again on Node School. I feel as though I understand everything a lot more second time round. I have just completed the Good Old Form challenge.
+
+**Thoughts**: Up to this point I am feeling very confident with Express. I havent hit any major hurdles which is inevitable in the nest few challenges. However every hurdle I overcome improved my knowledge and skills. 
