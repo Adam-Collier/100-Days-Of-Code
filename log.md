@@ -440,4 +440,10 @@
 
 **Todays progress**: Started the Expressworks workshopper again on Node School. I feel as though I understand everything a lot more second time round. I have just completed the Good Old Form challenge.
 
-**Thoughts**: Up to this point I am feeling very confident with Express. I havent hit any major hurdles which is inevitable in the nest few challenges. However every hurdle I overcome improved my knowledge and skills. 
+**Thoughts**: Up to this point I am feeling very confident with Express. I haven't hit any major hurdles which is inevitable in the next few challenges. However every hurdle I overcome improves my knowledge and skills.
+
+### Day 71: March 15th, Wednesday
+
+**Todays progress**: Completed the Stylish CSS and Param Pam Pam challenges on Expressworks. Been working on the FCC Manc webpack config and getting the Github repo organised and ready for contributions.
+
+**Thoughts**: Today was a pretty productive day. I managed to get a few more Expressworks challenges done, the Param Pam Pam challenge was a little confusing though to begin with. In terms of the FCC website the webpack config is looking good, we have reloading on our webpack dev server and everything is compiling perfectly. Now I have been thinking of introduing Sass and Scss files into the project so people can pick and choose what style they want to go for. It has been difficult to find an npm that updates the changes made to a Sass file to the Scss file and vice versa. I imagine a lot of people wouldn't do that for working projects but this is for people to learn. I am now thinking that we could use Stylus so people can pick whatever style they want and then post dev server we could have a script that converts the css to Stylus in a single format style. Therefore everything is kept neat and tidy. 
