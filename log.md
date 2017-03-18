@@ -453,3 +453,9 @@
 **Todays progress**: Completed the rest of the Expressworks challenges. Added a Stylus loader to the FCC Manc webpack config.
 
 **Thoughts**: I have tried a few things today. Getting the Sass and Scss files to update together didn't work as planned, I tried to find a hacky way but that was just horrible. Instead I have used Stylus which has the flexibility of using bracket and semi-colons or not. This could be really beneficial for people who want to try stuff out and really explore that flexibility. There are a few differences between Stylus and sass such as the way the variables are declared but its not a massive issue. I am now trying to find a tool which will format the Stylus into a consistent syntax rule so then it is neater and makes a lot more sense.
+
+### Day 73: March 17th, Friday
+
+**Todays progress**: Completed half of Learnyounode. Resorted back to Sass for the FCC Manc project.
+
+**Thoughts**: Since I finished the Expressworks curriculum I am feeling pretty confident with my understanding of streams, reading files and writing files I would have another go at Learnyounode. Its my third attempt at Learnyounode but now I am understanding the tasks initially before needing any help from the hints. Also I have brought back the Sass loaders into the FCC Manc project because the Stylus packages which I thought would format the styling just didn't work. Also it will be easier for the group. I believe we are going to adopt Scss rather than Sass because it is pretty similar to the standard CSS syntax.
