@@ -471,3 +471,9 @@
 **Todays progress**: Created the README for the FCC Manc project including details on installation, usage and scripts. Forked the repo, added the changes and created my first pull request.
 
 **Thoughts**: Today was a fairly easy day since it was just working on the documentation for the project, making sure it is all up to date and completed with enough detail that beginners can fully understand it. Had to figure out how to fork a project, commit and create a pull request but it was pretty simple in the end. I also updated the mockup with all of the text copy that one of the contributors had written up in a markdown file.
+
+### Day 76: March 23rd, Thursday
+
+**Todays progress**: Started to create a template file for work to make development and testing a lot easier.
+
+**Thoughts**: Missed out on several days of #100DaysOfCode since I started a new job this week. It feels good to be working with code everyday in an environment that pushes you forward, make quick decisions and think clearly. I thought the current method of working seemed very complicated and I am eager to come up with an easier solution which will improve the speed and quality at which we work, this will then allow us to focus more on making the projects exceptional.
