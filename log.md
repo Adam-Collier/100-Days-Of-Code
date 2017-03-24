@@ -477,3 +477,9 @@
 **Todays progress**: Started to create a template file for work to make development and testing a lot easier.
 
 **Thoughts**: Missed out on several days of #100DaysOfCode since I started a new job this week. It feels good to be working with code everyday in an environment that pushes you forward, make quick decisions and think clearly. I thought the current method of working seemed very complicated and I am eager to come up with an easier solution which will improve the speed and quality at which we work, this will then allow us to focus more on making the projects exceptional.
+
+### Day 77: March 24th, Friday
+
+**Todays progress**: Started to create a base CSS for projects that need flexbox, utilising space around and space between for layouts.
+
+**Thoughts**: Have to do some more research into flexbox. It seems to be the case that space around and space between doesn't work unless there is a fixed width to the elements. Need to fully understand flex basis, shrink and grow and really grasp the pros and cons of each combination.
