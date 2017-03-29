@@ -483,3 +483,9 @@
 **Todays progress**: Started to create a base CSS for projects that need flexbox, utilising space around and space between for layouts.
 
 **Thoughts**: Have to do some more research into flexbox. It seems to be the case that space around and space between doesn't work unless there is a fixed width to the elements. Need to fully understand flex basis, shrink and grow and really grasp the pros and cons of each combination.
+
+### Day 78: March 29th, Wednesday
+
+**Todays progress**: Started a very exciting project with downloadable assets.
+
+**Thoughts**: Getting used to using Flexbox in my projects. My thought processes and problem solving skills are getting quicker and quicker everytime I work on another project. I am thinking about learning Python, I have been given several useful resources which will help me with the learning process. It looks like a nice language to learn and use. Fingers crossed it actually will be.
